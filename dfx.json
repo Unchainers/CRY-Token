@@ -14,11 +14,6 @@
           "ic": "ryjl3-tyaaa-aaaaa-aaaba-cai"
         }
       }
-    },
-    "cry-token-backend":{
-      "type": "motoko",
-      "main": "./src/CRY-Token-backend/main.mo",
-      "dependencies": ["icrc1_ledger_canister", "icp_ledger_canister"]
     }
   },
   "defaults": {
